@@ -1,0 +1,22 @@
+{
+  "name": "FumeTracker Pro+",
+  "short_name": "FumeTrack+",
+  "description": "Votre allié pour une vie sans tabac",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#4a148c",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+      }
+    // Vous pouvez ajouter d'autres tailles d'icônes ici pour une meilleure compatibilité
+  ]
+}
